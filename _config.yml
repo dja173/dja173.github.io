@@ -1,11 +1,11 @@
 # Site settings
-author: dustin
-title: 
+author: Dustin Arceneaux
+title: Flatiron Full Time
 header-img: img/home-bg.png
 email: djarcene@gmail.com
-copyright_name: dustin
+copyright_name: Dustin Arceneaux
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Dustin's Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dja173
