@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "***Why did I decide to study software engineering***"
+date:       2020-04-14 15:51:13 +0000
+permalink:  why_did_i_decide_to_study_software_engineering
+---
+
+
+Two years ago i was in a motorcycle accident that should have ended my life but all i walked away wiht was a floating shoulder, which if you dont know means I completely shattered my collar bone and broke my scapula in half so there was nothign holding my shoulder in place. It took 8 months to recover and almost had my shoulder lock in place but within that time i was let go from my job with the parish water company. Needless to say my life changed. After recovery I went on a slight nomad journey living in Puerto Rico for 6 months then Georgia for 3 and my most recent was California. I found my way back to the small town im from in South Louisiana where i live with my grandparents now. i was in and out of this machine shop job that my cousin runs but thie whole time just knowing that it wasnt for me, and that i had to do something about it. so i just left and put my faith into knowing that something whatever it may be will find its ways to me. I started listening to affirmations at night and one day career karma just popped up on one of my those ads in between videos, and immediately I was drawn into what they were talking about. I have never even thought about being a software engineer before but i do have an associates degree in drafting and design and little did i know i was semi coding when making my programs change and do what i want them to do we jsut call them lisp commands. Anyway I hope that i have finally found a path that not only i belong on but one that i will enjoy get aggravated with build myself back up with and one that when i look back on i can say I did it and it was worth it!
